@@ -47,11 +47,18 @@ body{
     }
     
     .navbar-collapse{
-        margin-top: 60px;
+        position: absolute;
+        top: 91.2px; 
+        width: 100%;
+        z-index: 1;
+        background-color: black;
+    }
+    #nav-list li{
+        margin-top: 10px;
     }
     #nav-list a{
         color: #50C7C7;
-        font-size: 1.5em;
+        font-size: 18px;
     }
     .glyphicon{
         margin-right: 10px;
