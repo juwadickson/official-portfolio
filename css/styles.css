@@ -51,6 +51,7 @@ body{
     }
     #nav-list a{
         color: #50C7C7;
+        font-size: 1.5em;
     }
     .glyphicon{
         margin-right: 10px;
